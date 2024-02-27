@@ -1,0 +1,8 @@
+li a {
+    color: rgb(0, 121, 0);
+}
+
+body {
+    background: rgb(212, 152, 152) url("images/background.png") no-repeat;
+    font-size: 56px ; 
+}
